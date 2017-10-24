@@ -1,3 +1,5 @@
+## cbseResultChecker
+
 This is a notifier to notify you when you want yourself notified when the result is declared. This notifies you by playing a song in your computer. Run the program when cbse results weren't declared.
 
 1. First of all there should be php in your computer. To install php in your computer you can see many guides on google.
