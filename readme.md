@@ -16,5 +16,5 @@ sudo apt-get install php7.0-curl
 ```
 php cbseresultscrapper.php
 ```
-PS. This program is not in its best version for now. I have make to much improvements in this code. If anyone one to contribute then your help would be much appreciated.
+PS. This program is not in its best version for now. I have make too much improvements in this code. If anyone one to contribute then your help would be much appreciated.
 
